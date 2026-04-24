@@ -9,7 +9,8 @@ How it works:
 3. Split the data into training and testing sets
 4. Train a classification model (SVM)
 5. Evaluate the model's accuracy
-Resaults:
+
+Results:
 The model achieved a 96% accuracy on the test data.
 What I learned:
 How to avoid overfitting.
