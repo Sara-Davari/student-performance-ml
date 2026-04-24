@@ -12,9 +12,9 @@ How it works:
 Resaults:
 The model achieved a 96% accuracy on the test data.
 What I learned:
-How to avoid overfitting
-How to use Label Encoder to turn strings to numbers in a dataset
-How to split data for train and test
+1. How to avoid overfitting
+2. How to use Label Encoder to turn strings to numbers in a dataset
+3. How to split data for train and test
 Future Improvements:
-Use a larger dataset
-Try more models
+1. Use a larger dataset.
+2. Try more models.
