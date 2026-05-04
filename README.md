@@ -1,5 +1,5 @@
 # Student Performance Predictor
-This project uses machine learning to predict whether a student will pass or fail their test based on study hours and daily habits.
+This project uses machine learning to predict whether a student will pass or fail their test based on study hours, daily habits, previous test score, etc...
 
 Input: gender, age, study_hours, attendance_rate, parent_education, internet_access, extracurricular_activities, previous_score, final_score. 
 
