@@ -11,10 +11,11 @@ How it works:
 1. Load the dataset
 2. Inspect the dataset
 3. Using Label Encoder to turn all data to integers
-4. Understand the relationship of columns
-5. Split the data into training and testing sets
-6. Train a classification model (SVM)
-7. Evaluate the model's accuracy
+4. Re-inspecting data after changes
+5. Understand the relationship of columns
+6. Split the data into training and testing sets
+7. Train a classification model (SVM)
+8. Evaluate the model's accuracy
 
 Results:
 The model achieved a 96% accuracy on the test data.
