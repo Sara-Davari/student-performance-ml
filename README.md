@@ -8,14 +8,14 @@ Model: SVM
 Output: pass: 1 or fail: 0
 
 How it works:
-1. Load the dataset
-2. Inspect the dataset
+1. Loading the dataset
+2. Inspecting the dataset
 3. Using Label Encoder to turn all data to integers
 4. Re-inspecting the dataset after changes
-5. Understand the relationship of columns
-6. Split the dataset into training and testing sets
-7. Train a classification model (SVM)
-8. Evaluate the model's accuracy
+5. Understanding the relationship of columns
+6. Splitting the dataset into training and testing sets
+7. Training a classification model (SVM)
+8. Evaluate=ing the model's accuracy
 
 Results:
 The model achieved a 96% accuracy on the test data.
