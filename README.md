@@ -11,9 +11,9 @@ How it works:
 1. Load the dataset
 2. Inspect the dataset
 3. Using Label Encoder to turn all data to integers
-4. Re-inspecting the data after changes
+4. Re-inspecting the dataset after changes
 5. Understand the relationship of columns
-6. Split the data into training and testing sets
+6. Split the dataset into training and testing sets
 7. Train a classification model (SVM)
 8. Evaluate the model's accuracy
 
