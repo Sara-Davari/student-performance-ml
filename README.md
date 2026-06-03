@@ -3,7 +3,7 @@ This project uses machine learning to predict whether a student will pass or fai
 
 Input: gender, age, study_hours, attendance_rate, parent_education, internet_access, extracurricular_activities, previous_score, final_score. 
 
-Model: SVM
+Model: SVM (Support Vector Machine)
 
 Output: pass: 1 or fail: 0
 
